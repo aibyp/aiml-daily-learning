@@ -31,3 +31,6 @@ sum
 
 ## Summary
 NumPy makes numerical computations fast and efficient for ML tasks.
+
+#Differences between python lists and numpy arrays.
+#Python lists take more time to compute and where as np arrays so it faster.
